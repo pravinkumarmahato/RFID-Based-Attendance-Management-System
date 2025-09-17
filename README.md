@@ -66,12 +66,7 @@ Our system resolves these issues by providing a secure, fast, and automated atte
 ## 📷 System Architecture  
 
 **Hardware + Software Flow:**  
-
-```
-RFID Card → RFID Reader → NodeMCU → Database → Attendance Website
-                                           ↓
-                                       LCD Display
-```
+![RFID BASED ATTENDENCE MANAGEMENT SYSTEM](https://github.com/user-attachments/assets/2e33ad69-3c02-44a4-9fbd-1f1d1807ee31)
 
 ---
 
